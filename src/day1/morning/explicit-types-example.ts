@@ -65,7 +65,7 @@ console.log("Groceries (only strings):", groceries);
 console.log("\n5️⃣ Function Parameters (always be explicit!):");
 
 // Without explicit types - confusing and error-prone
-function badAdd(a: any, b: any) {      // What types are a and b? We have to use 'any'
+function badAdd(a: any, b: any) {      // What types are a and b?
     return a + b;
 }
 

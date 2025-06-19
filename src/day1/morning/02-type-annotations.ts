@@ -109,7 +109,7 @@ let count = 42;                     // Clear it's a number
 
 // ✅ Good: Use annotations when you want to be explicit
 let userId: string = "user123";     // Could be confused for a number
-let price: number;                  // Will be assigned later
+let orderPrice: number;             // Will be assigned later
 
 // ✅ Good: Always annotate function parameters
 function processOrder(orderId: string, amount: number): boolean {
@@ -117,8 +117,8 @@ function processOrder(orderId: string, amount: number): boolean {
     return true;
 }
 
-price = 29.99;  // Now we assign the value
-let orderSuccess = processOrder("ORD-001", price);
+orderPrice = 29.99;  // Now we assign the value
+let orderSuccess = processOrder("ORD-001", orderPrice);
 console.log(`Order processed successfully: ${orderSuccess}`);
 
 // 8. COMMON MISTAKES TO AVOID
