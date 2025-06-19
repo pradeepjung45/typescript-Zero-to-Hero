@@ -11,9 +11,9 @@ console.log("");
 // Day 1 Morning Lessons:
 // import "./day1/morning/01-basic-types";
 // import "./day1/morning/explicit-types-example";  // Understanding explicit types
-import "./day1/morning/02-type-annotations";
+// import "./day1/morning/02-type-annotations";
 // import "./day1/morning/03-interfaces";
-// import "./day1/morning/04-functions";
+import "./day1/morning/04-functions";
 // import "./day1/morning/05-union-intersection";
 
 // Day 1 Afternoon Lessons:
