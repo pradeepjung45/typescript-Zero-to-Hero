@@ -13,8 +13,8 @@ console.log("");
 // import "./day1/morning/explicit-types-example";  // Understanding explicit types
 // import "./day1/morning/02-type-annotations";
 // import "./day1/morning/03-interfaces";
-import "./day1/morning/04-functions";
-// import "./day1/morning/05-union-intersection";
+// import "./day1/morning/04-functions";
+import "./day1/morning/05-union-intersection";
 
 // Day 1 Afternoon Lessons:
 // import "./day1/afternoon/06-classes";
