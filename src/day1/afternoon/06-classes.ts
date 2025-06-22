@@ -95,6 +95,7 @@ class MathUtil {
     }
 }
 console.log("PI:", MathUtil.PI);
+console.log("Square of 5:", MathUtil.square(5));
 
 // 6️⃣ Getters & Setters
 class Rectangle {
