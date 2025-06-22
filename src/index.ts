@@ -18,10 +18,9 @@ console.log("");
 
 // Day 1 Afternoon Lessons:
 // import "./day1/afternoon/06-classes";
-// import "./day1/afternoon/07-enums";
+import "./day1/afternoon/07-enums";
 // import "./day1/afternoon/08-null-handling";
 // import "./day1/afternoon/09-type-guards";
-import "./day1/afternoon/06-classes";
 
 // Practice Projects:
 // import "./day1/practice/data-structures";
